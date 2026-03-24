@@ -70,7 +70,7 @@ Multiplexing is used to control all digits efficiently using limited I/O pins.
 
 You can download the Arduino sketch here:
 
-[Download Arduino Code](arduino_4digit_7segment_play_stop_common_anode.ino)
+[Download Arduino Code](Arduino_4_Digit_7_Segment_Animation_PLAY_STOP_Anode.ino)
 
 Or open the `.ino` file directly inside this repository.
 
